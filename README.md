@@ -60,5 +60,3 @@ MIT © [RayGray](https://github.com/raygray031)
 - **Mobile-Friendly** – Works flawlessly in Termux (Android)  
 - **No Bloat** – Pure Bash, no extra dependencies  
 
-Would you like me to add a troubleshooting section or contribution guidelines? 😊  
-

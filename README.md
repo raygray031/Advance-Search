@@ -29,12 +29,12 @@ cd Advance-Search
 
 ### **2. Make it executable**  
 ```bash
-chmod +x search.sh
+chmod +x google_search.sh
 ```
 
 ### **3. Run it!**  
 ```bash
-./search.sh
+./google_search.sh
 ```
 *(Follow prompts to enter your search query.)*  
 
